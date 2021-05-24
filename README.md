@@ -8,7 +8,7 @@ My name is Gina. I am a student at Codefellows.
 
 ### Growth Mindset
 
-To me growth mindset is about always learning. The three most important things for me to remember for maintaining a growth mindset are:
+To me, growth mindset is about believing that there is no baseline to ourselves that we must remain at forever. It is possible to push our own boundaries and grow to achieve whatever we set our minds to. To maintain this growth mindest I find it important to:
 
 * Stay Positive
 * Never accept failure
