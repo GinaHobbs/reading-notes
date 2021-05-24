@@ -16,3 +16,7 @@ To me, growth mindset is about believing that there is no baseline to ourselves 
 
 Afterall, in the words of Audrey Hepburn:
 > Nothing is impossible, even the word itself says 'I'm possible!'
+
+### What I've learned so far
+
+* [Markdown] ()
