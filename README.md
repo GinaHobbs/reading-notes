@@ -4,6 +4,8 @@ This is my reading notes repo to track all of my reading notes.
 
 ## About Me
 
+My name is Gina. I am a student at Codefellows.
+
 ### Growth Mindset
 
 To me growth mindset is about always learning. The three most important things for me to remember for maintaining a growth mindset are:
@@ -12,4 +14,4 @@ To me growth mindset is about always learning. The three most important things f
 * Never accept failure
 * Always Google everything!
 
-My name is Gina. I am a student at Codefellows.
+
