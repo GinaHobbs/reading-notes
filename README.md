@@ -1,2 +1,3 @@
-# reading-notes
-Reading notes for Code Fellows
+# Reading notes for Codefellows
+
+This is my reading notes repo to track all of my reading notes.
