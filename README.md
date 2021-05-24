@@ -19,4 +19,4 @@ Afterall, in the words of Audrey Hepburn:
 
 ### What I've learned so far
 
-* [Markdown] ()
+* [Markdown] (https://ginahobbs.github.io/reading-notes/markdown)
