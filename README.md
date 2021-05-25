@@ -1,4 +1,4 @@
-# Reading notes for Codefellows
+# Reading Notes for Codefellows
 
 This is my reading notes repo to track all of my reading notes.
 
@@ -8,18 +8,8 @@ My name is Gina. I am a student at Codefellows. I am a 6 year Navy veteran with 
 
 Here is my [Github Profile Page](https://github.com/GinaHobbs).
 
-### Growth Mindset
+## Table of Contents
 
-To me, growth mindset is about believing that there is no baseline to ourselves that we must remain at forever. It is possible to push our own boundaries and grow to achieve whatever we set our minds to. To maintain this growth mindest I find it important, and I mean **important**, to:
-
-* Stay Positive
-* Never accept failure
-* Always Google everything!
-
-Afterall, in the words of Audrey Hepburn:
-> Nothing is impossible, even the word itself says 'I'm possible!'
-
-### What I've learned so far
-
-* [Markdown](https://ginahobbs.github.io/reading-notes/markdown)
-* [Coder's Computer](https://ginahobbs.github.io/reading-notes/coders-computer)
+* [Markdown](markdown.md)
+* [Coder's Computer](coders-computer.md)
+* [Growth Mindset](growth.md)
