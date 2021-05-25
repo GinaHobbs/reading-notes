@@ -22,3 +22,4 @@ Afterall, in the words of Audrey Hepburn:
 ### What I've learned so far
 
 * [Markdown](https://ginahobbs.github.io/reading-notes/markdown)
+* [Coder's Computer](https://ginahobbs.github.io/reading-notes/coders-computer)
