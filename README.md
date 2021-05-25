@@ -13,3 +13,4 @@ Here is my [Github Profile Page](https://github.com/GinaHobbs).
 * [Markdown](markdown.md)
 * [Coder's Computer](coders-computer.md)
 * [Growth Mindset](growth.md)
+* [Git](git.md)
