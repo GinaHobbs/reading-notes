@@ -14,4 +14,4 @@ Here is my [Github Profile Page](https://github.com/GinaHobbs).
 * [Coder's Computer](coders-computer.md)
 * [Growth Mindset](growth.md)
 * [Git](git.md)
-* [Wirefram](wireframe.md)
+* [Wireframe](wireframe.md)

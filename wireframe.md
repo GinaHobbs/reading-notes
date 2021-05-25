@@ -11,4 +11,3 @@ HTML is a coding languge that is used to structure the content on a web page. It
 > `<p>This is an HTML element</p>`
 
 It is also possible to style content with HTML, much like it is with Markdown.
-
