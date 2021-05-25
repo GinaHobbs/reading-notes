@@ -12,6 +12,8 @@ There are several Git commands that one needs to know to use it.
 
 * `git status` is used to check whether there are any changes between the clones repo and the local machine
 
+* `git add 'filename'` is used to add a new file to be tracked for changes. `git add .` is used to track all changes
+
 * `git commit - m "message"` is used to create an informative message that explains what changes were made and why
 
 * `git push origin main` is used to save the changes made on the local machine to Github
