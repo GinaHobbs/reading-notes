@@ -24,3 +24,14 @@ An external style sheet allows one to change the look of a website by changing a
 
 > `<head> <link rel="stylesheet" href="mystyle.css"> </head>`
 
+### Internal CSS
+
+An internal style sheet is used if only one HTML page has a unique style. It is defined inside the `<style>` element inside the head section. The following is an example of internal CSS:
+
+> `<head> <style> h1 {color: maroon; margin-left: 40px;} </style> </head>`
+
+### Inline CSS
+
+An inline style is used to apply a uniqe style for only one HTML element. The following is an example of an inline style:
+
+> `<p style="color:red;">This is a paragraph.</p>`
