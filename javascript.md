@@ -47,3 +47,12 @@ In the function example above the name of the function is `square`, the paramete
 To call the above function one would type the following:
 
 > `square(5)`
+
+## Loops
+
+A loop is a way to allow one to run code a certain number of times. A loops looks like the following:
+
+> `for (let step = 0; step < 5; step++) {console.log('Walking east one step');}`
+
+The above code will log `Waking east one step` to the console five times. The way this works is by setting the initial loop variable `step` to 0. The code then runs and when it is finished the step variable is incremented by 1, making the the step value 1. This code will continue to run so long as step is less than 5. Once step equals 5 the loop is exited.
+
