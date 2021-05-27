@@ -16,3 +16,4 @@ Here is my [Github Profile Page](https://github.com/GinaHobbs).
 * [Git](git.md)
 * [Wireframe](wireframe.md)
 * [CSS](css.md)
+* [Javascript](javascript.md)
