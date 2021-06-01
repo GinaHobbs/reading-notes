@@ -10,10 +10,5 @@ Here is my [Github Profile Page](https://github.com/GinaHobbs).
 
 ## Table of Contents
 
-* [Markdown](markdown.md)
-* [Coder's Computer](coders-computer.md)
-* [Growth Mindset](growth.md)
-* [Git](git.md)
-* [Wireframe](wireframe.md)
-* [CSS](css.md)
-* [Javascript](javascript.md)
+* [Code 102](code102.md)
+* [Code 201](code201.md)
