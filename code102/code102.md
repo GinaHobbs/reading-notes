@@ -1,6 +1,6 @@
 # Code 102 Reading Notes
 
-* [Markdown](markdown.md)
+* [Markdown](code102/markdown.md)
 * [Coder's Computer](coders-computer.md)
 * [Growth Mindset](growth.md)
 * [Git](git.md)
