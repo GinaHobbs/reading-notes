@@ -5,6 +5,7 @@ HTML defines the structure of a webpage. Just as in a text editor, heading, para
 
 ## HTML Chapter 8: Extra Markup
 
+
 ## HTML Chapter 17: HTML5 Layout
 
 ## HTML Chapter 18: Process and Design 
