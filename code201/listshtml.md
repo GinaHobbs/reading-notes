@@ -24,7 +24,7 @@ To make a decision in Javascript an `if...else` statement is used. If the statem
 
 A **switch statement** is similiar to an `if...else` statement, but instead of evaluating a statement it evaluates a variable and makes a decision based on it. The following is an example of a switch statement:
 
->`switch(rating) {case 1: console.log('You give the venue 1 star);break; case 5: console.log('You give the venue 5 stars'); break; default: console.log('No rating was given');}
+>`switch(rating) {case 1: console.log('You give the venue 1 star);break; case 5: console.log('You give the venue 5 stars'); break; default: console.log('No rating was given');}`
 
 A loop is a way for Javascript to repeat a code block. There are three types of loops in Javascript:
 
