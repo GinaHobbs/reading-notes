@@ -1,4 +1,4 @@
-#HTML Links, JS Functions, and Intro to CSS Layout
+# HTML Links, JS Functions, and Intro to CSS Layout
 
 ## HTML Chapter 4: Ch.4 “Links” (pp.74-93)
 Webistes on the internet are navigating through the use of links. A link is created by using the `<a>` tag. An example of a link is the following:
