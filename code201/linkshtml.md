@@ -61,7 +61,7 @@ Pair programming works on the four skills that are necessary when learning to co
 * Reading: understanding what written code conveys
 * Writing: producing meaningful code statements
 
-Pair programming has the following 6 benefit:
+Pair programming has the following 6 benefits:
 
 1. Greater Efficiency
 2. Engaged Collaboration
