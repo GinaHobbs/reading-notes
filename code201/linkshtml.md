@@ -51,3 +51,21 @@ To call the above function one would type the following:
 This would execute the function and send the number 5 to be processed by it. After processing the function would then return the value 25.
 
 ## Pair Programming
+
+Pair programming is a technique that involves two programmres pairing up and typing code as a team. The two programmers take the role of the Driver and the Navigator; the Driver sits at the computer and manages the files and typing code while the Navigator actually comes up with the algorithm and tells the Driver what to type.
+
+Pair programming works on the four skills that are necessary when learning to code:
+
+* Listening: interpreting the vocabulary
+* Speaking: using the correct words to communicate
+* Reading: understanding what written code conveys
+* Writing: producing meaningful code statements
+
+Pair programming has the following 6 benefit:
+
+1. Greater Efficiency
+2. Engaged Collaboration
+3. Learning from fellow students
+4. Social Skills
+5. Job Interview Readiness
+6. Work Environment Readiness
