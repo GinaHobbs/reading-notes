@@ -5,3 +5,4 @@
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](listshtml.md)
 * [HTML Links, JS Functions, and Intro to CSS Layout](linkshtml.md)
 * [Images, Color, Text](color.md)
+* [Problem Domain, Objects, and the DOM](dom.md)
