@@ -16,5 +16,11 @@ Here are tips for building domain models:
 ## HTML Chapter 6: “Tables” (pp.126-145)
 
 
-## Javascript Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
+## Javascript Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+> Functions allow you to group a set of related statements together that represent a single task.<br>
+> Functions can take parameters and may return a value.<br>
+> An object is a series of variables and functions that represent something from the world around you.<br>
+> In an object, variables are known as properties and functions are known as methods.<br>
+> Arrays and objects can be used to create complex data sets (and both can contain the other.)<br>
+> Source: Duckett page 144
