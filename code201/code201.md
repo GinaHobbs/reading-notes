@@ -7,3 +7,4 @@
 * [Images, Color, Text](color.md)
 * [Problem Domain, Objects, and the DOM](dom.md)
 * [Object-Oriented Programming, HTML Tables](tableshtml.md)
+* [Forms and JS Events](formhtml.md)
