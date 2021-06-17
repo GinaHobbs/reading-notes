@@ -29,7 +29,7 @@ Styling forms makes them more pleasing to fill out; remember, no one likes to fi
 ## Chapter 6: “Events” (pp.243-292)
 
 > Events are the browser's way of indicating whne something has happened (such as when a page has finished loading or a button has been clicked).<br>
-> Binding is the process of stating which event uou are waiting to happen and which element you are waiting for that event to happen upon.<br>
+> Binding is the process of stating which event you are waiting to happen and which element you are waiting for that event to happen upon.<br>
 > When an even occurs on an element, it can trigger a JavaScript function. When this function then changes the webpage in some way, it feels interactive because it has responded to the user.<br>
 > You can use event delegation to monitor for events that happen on all the children of an element.<br>
 > The most commonly used events are W3C DOM events, although there are others in the HTML5 specification as well as browser-specific events.<br>
