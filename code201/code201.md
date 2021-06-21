@@ -9,3 +9,4 @@
 * [Object-Oriented Programming, HTML Tables](tableshtml.md)
 * [Forms and JS Events](formhtml.md)
 * [Debugging](debug.md)
+* [Audio, Video, Images](images.md)
