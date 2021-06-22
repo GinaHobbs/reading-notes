@@ -10,3 +10,4 @@
 * [Forms and JS Events](formhtml.md)
 * [Debugging](debug.md)
 * [Audio, Video, Images](images.md)
+* [Chart.js, Canvas](chart.md)
