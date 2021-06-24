@@ -11,3 +11,5 @@
 * [Debugging](debug.md)
 * [Audio, Video, Images](images.md)
 * [Chart.js, Canvas](chart.md)
+* [Storage](storage.md)
+* [What Googlge Learned About Teams](teams.md)
