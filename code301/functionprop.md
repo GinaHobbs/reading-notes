@@ -13,20 +13,6 @@ const listItems = numbers.map((number) =>
   <li>{number}</li>
 );
 ```
---
-```
-function NumberList(props) {
-  const numbers = props.numbers;
-  return (
-    <ul>
-      {numbers.map((number) =>
-        <ListItem key={number.toString()}
-                  value={number} />
-      )}
-    </ul>
-  );
-}
-```
 source: https://reactjs.org/docs/lists-and-keys.html
 
 3. Each list item needs a unique ____.
