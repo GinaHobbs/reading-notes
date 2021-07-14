@@ -13,6 +13,7 @@ const listItems = numbers.map((number) =>
   <li>{number}</li>
 );
 ```
+--
 ```
 function NumberList(props) {
   const numbers = props.numbers;
