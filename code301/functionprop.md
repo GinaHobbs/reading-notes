@@ -7,12 +7,14 @@
 
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
 -- It can be done with the following code:
+
 ```
-const numbers = [1, 2, 3, 4, 5];
-const listItems = numbers.map((number) =>
-  <li>{number}</li>
+  const numbers = [1, 2, 3, 4, 5];
+  const listItems = numbers.map((number) =>
+    <li>{number}</li>
 );
 ```
+
 source: https://reactjs.org/docs/lists-and-keys.html
 
 3. Each list item needs a unique ____.
