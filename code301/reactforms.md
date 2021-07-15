@@ -31,3 +31,4 @@ Source: https://reactjs.org/docs/forms.html
 --
 ```
 x === y ? console.log(true) : console.log(false);
+```
