@@ -37,12 +37,12 @@ Source: https://www.sitepoint.com/an-introduction-to-node-js/
 
 1. What are the 6 reasons for pair programming?
 ```
-1. Greater efficiency
-2. Engaged collaboration
-3. Learning from fellow students
-4. Social skills
-5. Job interview readiness
-6. Work environment readiness
+ Greater efficiency
+ Engaged collaboration
+ Learning from fellow students
+ Social skills
+ Job interview readiness
+ Work environment readiness
 ```
 
 2. In your experience, which of these reasons have you found most beneficial?
