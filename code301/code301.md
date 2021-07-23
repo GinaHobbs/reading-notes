@@ -5,3 +5,4 @@
 * [Passing Functions as Props](functionprop.md)
 * [React and Forms](reactforms.md)
 * [Node.js](nodejs.md)
+* [Memory](memory.md)
