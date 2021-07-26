@@ -13,11 +13,12 @@ Only one
 Last In First Out
 
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-```
-Top   ----------------------------------------  Bottom
-      | f(1) | f(2) | ... | ... | ... | f(6) |
-      ----------------------------------------
-```
+
+Top                                             Bottom <br>
+      --------------------------------- <br>
+      | f(1) | f(2) | f(3) | f(4) | f(5) | f(6) | <br>
+      --------------------------------- <br>
+
 
 5. What causes a Stack Overflow?
 A stack overflow is caused when a recursive function calls itself repeatedly with no exit point.

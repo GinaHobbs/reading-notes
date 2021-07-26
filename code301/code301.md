@@ -6,3 +6,4 @@
 * [React and Forms](reactforms.md)
 * [Node.js](nodejs.md)
 * [Memory](memory.md)
+* [Authorization](authorization.md)
