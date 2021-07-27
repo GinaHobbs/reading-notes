@@ -34,15 +34,27 @@ OAuth is not the first authentication/authorization system to work this way on b
 # Authorization and Authentication flows
 
 1. What is the difference between authorization and authentication?
+Authentication prompts the user for a password to access services and authorization means the user has the level of access required to use services.
 
 2. What is Authorization Code Flow?
 
 3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
 4. What is Implicit Flow with Form Post?
+Implicit Flow with Form Post flow uses OIDC to implement web sign-in that is very similar to the way SAML and WS-Federation operates.
 
 5. What is Client Credentials Flow?
+Instead, M2M apps use the Client Credentials Flow (defined in OAuth 2.0 RFC 6749, section 4.4), in which they pass along their Client ID and Client Secret to authenticate themselves and get a token.
+```
+The client can request an access token using only its client
+credentials (or other supported means of authentication) when the
+client is requesting access to the protected resources under its
+control, or those of another resource owner that have been previously
+arranged with the authorization server (the method of which is beyondthe scope of this specification).
+```
 
 6. What is Device Authorization Flow?
+With input-constrained devices that connect to the internet, rather than authenticate the user directly, the device asks the user to go to a link on their computer or smartphone and authorize the device.
 
 7. What is Resource Owner Password Flow?
+Though we do not recommend it, highly-trusted applications can use the Resource Owner Password Flow, which requests that users provide credentials (username and password), typically using an interactive form.
